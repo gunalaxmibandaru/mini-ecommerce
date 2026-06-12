@@ -6,9 +6,9 @@ MiniStore is a responsive mini e-commerce application built using React, TypeScr
 
 Add deployed URL here after deployment.
 
-Example:
+https://mini-ecommerce-phi-three.vercel.app/
 
-https://your-app.vercel.app
+
 
 ---
 
