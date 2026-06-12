@@ -1,0 +1,52 @@
+.home {
+  padding: 30px;
+}
+
+.hero {
+  text-align: center;
+
+  padding: 80px 20px;
+
+  margin-bottom: 50px;
+
+  border-radius: 20px;
+
+  background: linear-gradient(
+    135deg,
+    #111,
+    #333
+  );
+
+  color: white;
+}
+
+.hero h1 {
+  font-size: 52px;
+  margin-bottom: 16px;
+}
+
+.hero p {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.products h2 {
+  font-size: 34px;
+  margin-bottom: 28px;
+}
+
+.products h2 span {
+  margin-left: 10px;
+  color: gray;
+  font-size: 22px;
+}
+
+@media (max-width: 767px) {
+  .hero h1 {
+    font-size: 34px;
+  }
+
+  .products h2 {
+    font-size: 28px;
+  }
+}

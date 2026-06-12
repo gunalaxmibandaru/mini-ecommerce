@@ -1,0 +1,23 @@
+.section {
+  margin: 20px 0;
+}
+
+.colors,
+.sizes {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.colors button,
+.sizes button {
+  padding: 10px 16px;
+}
+
+.active {
+  border: 2px solid black;
+}
+
+.soldOut {
+  opacity: 0.5;
+}
